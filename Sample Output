@@ -1,0 +1,39 @@
+Sample Output
+
+BOSS (infinite deck)
+	Total games: 1000000	Total wins: 77107	Probability of occurence: 0.077107
+	Expected Casino Winnings per Game: 0.228930
+BOSS (single deck)
+	Total games: 1000000	Total wins: 77456	Probability of occurence: 0.077456
+	Expected Casino Winnings per Game: 0.225440
+TWINS (infinite deck)
+	Total games: 1000000	Total wins: 19188	Probability of occurence: 0.019188
+	Expected Casino Winnings per Game: 0.040600
+TWINS (single deck)
+	Total games: 1000000	Total wins: 0	Probability of occurence: 0.000000
+	Expected Casino Winnings per Game: 1.000000
+BIGGIE (infinite deck)
+	Total games: 1000000	Total wins: 489363	Probability of occurence: 0.489363
+	Expected Casino Winnings per Game: 0.021274
+BIGGIE (single deck)
+	Total games: 1000000	Total wins: 500991	Probability of occurence: 0.500991
+	Expected Casino Winnings per Game: -0.001982
+Sweethearts (infinite deck)
+	Total games: 1000000	Total wins: 578680	Probability of occurence: 0.578680
+	Expected Casino Winnings per Game: 0.248882
+Sweethearts (single deck)
+	Total games: 1000000	Total wins: 586266	Probability of occurence: 0.586266
+	Expected Casino Winnings per Game: 0.250127
+Runny (infinite deck)
+	Total games: 1000000	Total wins: 200519	Probability of occurence: 0.200519
+	Expected Casino Winnings per Game: -0.002595
+Runny (single deck)
+	Total games: 1000000	Total wins: 221255	Probability of occurence: 0.221255
+	Expected Casino Winnings per Game: -0.106275
+Democracy (infinite deck)
+	Total games: 1000000	Total wins: 195691	Probability of occurence: 0.195691
+	Expected Casino Winnings per Game: 0.021545
+Democracy (single deck)
+	Total games: 1000000	Total wins: 133879	Probability of occurence: 0.133879
+	Expected Casino Winnings per Game: 0.330605
+

@@ -1,0 +1,8 @@
+To compile: open the directory containing the .java files in terminal. Run the command 'javac *.java'
+To run: on the same terminal, run the command 'java Casino'
+
+No other configurations are required. The Monte Carlo simulations will run automatically and results will be posted shortly afterwards.
+
+Program was written and tested on my home computer but it's basic Java code so everything should work everywhere, hopefully.
+
+Everything is correctly solved and perfectly coded (except for the billion lines of code that repeat, I'm so sorry)
