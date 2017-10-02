@@ -6,3 +6,5 @@ No other configurations are required. The Monte Carlo simulations will run autom
 Program was written and tested on my home computer but it's basic Java code so everything should work everywhere, hopefully.
 
 Everything is correctly solved and perfectly coded (except for the billion lines of code that repeat, I'm so sorry)
+
+Democracy is played by picking 9 cards. If at least 5 are of the same suit, the player wins.
